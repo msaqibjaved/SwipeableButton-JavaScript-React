@@ -79,3 +79,14 @@ class MyComponent extends React.Component {
 export default MyComponent;
 ```
 
+**Working Screenshoots**
+
+The button will look like this when unlocked.
+
+![unlocked_swipeablebutton](https://github.com/msaqibjaved/SwipeableButton-JavaScript-React/assets/49585350/87d46017-0254-48e8-bf4d-644d521d7e91)
+
+The button will look like this when locked or dragged completely.
+
+![locked_swipeablebutton](https://github.com/msaqibjaved/SwipeableButton-JavaScript-React/assets/49585350/26db8310-6232-4e84-879c-7d69ddf16c73)
+
+
