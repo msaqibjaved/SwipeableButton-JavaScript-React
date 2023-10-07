@@ -54,6 +54,9 @@ npm start
 onDragEnd (function, required): Function to be called when the dragging of the button ends.
 
 **Example**
+
+Here's a more detailed example of using the Swipeable Button component:
+
 ```javascript
 import React from 'react';
 import SwipeableButton from 'swipeable-button';
@@ -75,5 +78,4 @@ class MyComponent extends React.Component {
 
 export default MyComponent;
 ```
-Here's a more detailed example of using the Swipeable Button component:
 
