@@ -1,4 +1,4 @@
-**Swipeable Button Component**
+**Swipeable Button React Component**
 
 The Swipeable Button component provides a user interface element that can be swiped horizontally. You can use this component to trigger actions when the button is dragged to a specific position.
 
